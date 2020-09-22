@@ -10,13 +10,12 @@
 >>* Acres of flowers under cover (decimal number)
 >
 > According to the table below, it calculates and displays the amount of aid that the florist will receive and also displays its code.
-
-Cultivation | Financial aid per acre
------------- | -------------
-Country flowers | 1.250€
------------- | -------------
-Flowers under cover | 2.500€
-
+>>
+>>Cultivation | Financial aid per acre
+>>------------ | -------------
+>>Country flowers | 1.250€
+>>Flowers under cover | 2.500€
+>>
 >
 >The process is repeated until 0 is given for the flower grower code.
 >
